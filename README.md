@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://fb.com/eren aloglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eren aloglu" height="30" width="40" /></a>
 <a href="https://instagram.com/loop.eren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loop.eren" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/p0gy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="p0gy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvl0wx1aexonqjpvr97tp5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvl0wx1aexonqjpvr97tp5g" height="30" width="40" /></a>
 <a href="https://discord.gg/p0gy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="p0gy" height="30" width="40" /></a>
 </p>
 
